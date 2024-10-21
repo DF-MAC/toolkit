@@ -1,0 +1,6 @@
+requests
+threading
+ruamel.yaml
+ftfy
+pyOpenSSL
+pandas

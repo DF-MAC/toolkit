@@ -1,0 +1,161 @@
+# These should be represented as variables.
+# Where do orgs define these?
+# Can we integrate with those values by cataloging them?
+
+
+mandatory access control policy
+information types
+information system components
+security or privacy policy filters
+information flows
+conditions
+user actions
+security and privacy attributes
+attribute values or ranges for established attributes
+frequency
+subjects and objects
+security and privacy policies
+inputs and outputs
+vulnerability scanning tools
+corrective actions
+time period
+vulnerability analysis tools
+automated tools
+configuration change control element
+configuration change conditions
+mission-essential capabilities
+functions, ports, protocols, software, and/or services
+personnel or roles
+time period to recover the capability
+information system backup and restoration tools
+information systems
+alternate storage locations
+information types
+storage capacity
+personnel or roles
+information system components
+privileges
+authenticator strength requirements
+level of tolerance for the relationship between time stamps of individual records in the audit trail
+randomness requirements
+cryptographic uses
+security and privacy requirements
+contract language
+specific code
+sources
+supply chain risk management activities
+personnel, roles, and responsibilities
+unauthorized activities or conditions
+communications and connections
+security-relevant external information systems
+range of addresses
+information flows
+external information systems
+potential sources of malicious code
+personnel or roles
+unusual or unauthorized activities or conditions
+time period
+flaw remediation processes
+sources
+personnel or roles
+information types
+organizational systems
+security-relevant information
+time period
+events or conditions
+personnel or roles
+incident response actions
+information system maintenance tools
+organizational information systems
+time period
+information system media
+media access mechanisms
+media sanitization and disposal tools
+facilities
+security safeguards
+alternate work sites
+personnel or roles
+emergency responders
+security-related information
+time period
+information system security or privacy flaws
+security or privacy incidents
+personnel or roles
+information system components
+security and privacy programs
+security or privacy training
+personnel or roles
+risk assessments
+risk tolerance
+personnel or roles
+supply chain risk management elements
+supply chain risk management guidance
+supply chain risk management processes
+supply chain risk management activities
+personnel or roles
+information systems
+security and privacy requirements
+time period
+information system components
+security and privacy control baselines
+security and privacy controls
+security or privacy assessment tools
+security or privacy assessment activities
+security or privacy assessment results
+security and privacy monitoring activities
+security and privacy monitoring tools
+security and privacy monitoring information
+security and privacy monitoring frequency
+security and privacy monitoring personnel or roles
+security and privacy reporting content
+security and privacy reporting mechanisms
+security and privacy reporting frequency
+security and privacy status reporting information
+security and privacy status reporting frequency
+security and privacy status reporting personnel or roles
+security and privacy noncompliance reporting information
+security and privacy noncompliance reporting frequency
+security and privacy noncompliance reporting personnel or roles
+security and privacy assessment information
+security and privacy assessment personnel or roles
+security and privacy reporting information
+security and privacy reporting personnel or roles
+security and privacy noncompliance information
+security and privacy noncompliance personnel or roles
+security and privacy waivers
+security and privacy waiver personnel or roles
+security and privacy plan of action and milestones information
+security and privacy plan of action and milestones personnel or roles
+security and privacy risk response decisions
+security and privacy risk response personnel or roles
+security and privacy risk assessment information
+security and privacy risk assessment personnel or roles
+security and privacy control assessment information
+security and privacy control assessment personnel or roles
+security and privacy authorizations
+security and privacy authorization personnel or roles
+security and privacy authorization conditions
+security and privacy continuous monitoring information
+security and privacy continuous monitoring personnel or roles
+security and privacy continuous monitoring frequency
+security and privacy configuration management information
+security and privacy configuration management personnel or roles
+security and privacy configuration management frequency
+security and privacy contingency planning information
+security and privacy contingency planning personnel or roles
+security and privacy contingency planning frequency
+security and privacy identification and authentication information
+security and privacy identification and authentication personnel or roles
+security and privacy identification and authentication frequency
+security and privacy incident handling information
+security and privacy incident handling personnel or roles
+security and privacy incident handling frequency
+security and privacy maintenance information
+security and privacy maintenance personnel or roles
+security and privacy maintenance frequency
+security and privacy media protection information
+security and privacy media protection personnel or roles
+security and privacy media protection frequency
+security and privacy physical and environmental protection information
+security and privacy physical and environmental protection personnel or roles
+security and privacy physical and environmental protection frequency
