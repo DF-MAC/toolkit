@@ -1,100 +1,90 @@
 "editor.tokenColorCustomizations": {
     "textMateRules": [
         {
-            "scope": "keyword",
+            "scope": "entity.name.type.class",
             "settings": {
-                "foreground": "#FF5F00",  // Bright orange to emphasize keywords like "if", "else", "while"
-                "fontStyle": "bold"
-            }
-        },
-        {
-            "scope": "variable",
-            "settings": {
-                "foreground": "#00FFFF"  // Cyan for variables
-            }
-        },
-        {
-            "scope": "variable.parameter",
-            "settings": {
-                "foreground": "#FF00FF"  // Magenta for function parameters
+                "foreground": "#4EC9B0"  // Cyan/light blue for class names (like PrismaCloudAPI, CallCounter)
             }
         },
         {
             "scope": "entity.name.function",
             "settings": {
-                "foreground": "#FFD700",  // Gold for function names
-                "fontStyle": "italic"
+                "foreground": "#DCDCAA"  // Soft yellow for function names (like __init__)
             }
         },
         {
-            "scope": "entity.name.type.class",
+            "scope": "variable.parameter",
             "settings": {
-                "foreground": "#00FF00",  // Bright green for class names
-                "fontStyle": "underline"
+                "foreground": "#9CDCFE"  // Light blue for function parameters
             }
         },
         {
             "scope": "string",
             "settings": {
-                "foreground": "#FFA500"  // Orange for strings
-            }
-        },
-        {
-            "scope": "constant.numeric",
-            "settings": {
-                "foreground": "#FF1493"  // Pink for numeric constants
+                "foreground": "#CE9178"  // Muted light red/orange for strings (matching standard Python strings)
             }
         },
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#888888",  // Light gray for comments
+                "foreground": "#6A9955",  // Greenish yellow for comments
                 "fontStyle": "italic"
             }
         },
         {
-            "scope": "storage.type",
+            "scope": "keyword",
             "settings": {
-                "foreground": "#00FF7F",  // Spring green for storage types like "class", "def"
+                "foreground": "#569CD6"  // Blue for Python keywords like 'class', 'def'
+            }
+        },
+        {
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#B5CEA8"  // Light green for numbers
             }
         },
         {
             "scope": "punctuation.definition.string",
             "settings": {
-                "foreground": "#E6DB74"  // Soft yellow to differentiate string punctuation
+                "foreground": "#D4D4D4"  // Standard contrast for string punctuation
             }
         },
         {
-            "scope": "entity.other.attribute-name",
+            "scope": "storage.type",
             "settings": {
-                "foreground": "#87CEEB",  // Light blue for attributes
-                "fontStyle": "bold"
-            }
-        },
-        {
-            "scope": "support.function",
-            "settings": {
-                "foreground": "#FFA07A"  // Light salmon for built-in functions
-            }
-        },
-        {
-            "scope": "keyword.operator",
-            "settings": {
-                "foreground": "#FF4500",  // Red-orange for operators like "+" or "=="
+                "foreground": "#C586C0"  // Lavender for storage type keywords like 'self', 'class'
             }
         },
         {
             "scope": "meta.function-call",
             "settings": {
-                "foreground": "#FF8C00",  // Dark orange for function calls
+                "foreground": "#D7BA7D"  // Soft gold/yellow for function calls
+            }
+        },
+        {
+            "scope": "meta.docstring",
+            "settings": {
+                "foreground": "#DCDCAA",  // Soft yellow for docstrings
                 "fontStyle": "italic"
             }
         },
         {
-            "scope": "meta.decorator",
+            "scope": "support.function.builtin",
             "settings": {
-                "foreground": "#C71585",  // Medium violet red for decorators
-                "fontStyle": "bold"
+                "foreground": "#FFB86C"  // Light orange for built-in functions like 'print', etc.
+            }
+        },
+        {
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "foreground": "#9CDCFE",  // Light blue for attributes
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#9CDCFE"  // Light blue for general variables
             }
         }
     ]
