@@ -1,0 +1,101 @@
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#FF5F00",  // Bright orange to emphasize keywords like "if", "else", "while"
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#00FFFF"  // Cyan for variables
+            }
+        },
+        {
+            "scope": "variable.parameter",
+            "settings": {
+                "foreground": "#FF00FF"  // Magenta for function parameters
+            }
+        },
+        {
+            "scope": "entity.name.function",
+            "settings": {
+                "foreground": "#FFD700",  // Gold for function names
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "entity.name.type.class",
+            "settings": {
+                "foreground": "#00FF00",  // Bright green for class names
+                "fontStyle": "underline"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#FFA500"  // Orange for strings
+            }
+        },
+        {
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#FF1493"  // Pink for numeric constants
+            }
+        },
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#888888",  // Light gray for comments
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "storage.type",
+            "settings": {
+                "foreground": "#00FF7F",  // Spring green for storage types like "class", "def"
+            }
+        },
+        {
+            "scope": "punctuation.definition.string",
+            "settings": {
+                "foreground": "#E6DB74"  // Soft yellow to differentiate string punctuation
+            }
+        },
+        {
+            "scope": "entity.other.attribute-name",
+            "settings": {
+                "foreground": "#87CEEB",  // Light blue for attributes
+                "fontStyle": "bold"
+            }
+        },
+        {
+            "scope": "support.function",
+            "settings": {
+                "foreground": "#FFA07A"  // Light salmon for built-in functions
+            }
+        },
+        {
+            "scope": "keyword.operator",
+            "settings": {
+                "foreground": "#FF4500",  // Red-orange for operators like "+" or "=="
+            }
+        },
+        {
+            "scope": "meta.function-call",
+            "settings": {
+                "foreground": "#FF8C00",  // Dark orange for function calls
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": "meta.decorator",
+            "settings": {
+                "foreground": "#C71585",  // Medium violet red for decorators
+                "fontStyle": "bold"
+            }
+        }
+    ]
+}
